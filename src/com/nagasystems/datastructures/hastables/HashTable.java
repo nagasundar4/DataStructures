@@ -1,4 +1,4 @@
-package com.nagasystems.datastructures;
+package com.nagasystems.datastructures.hastables;
 
 import java.util.LinkedList;
 

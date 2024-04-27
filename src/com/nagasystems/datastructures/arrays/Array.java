@@ -1,4 +1,4 @@
-package com.nagasystems.datastructures;
+package com.nagasystems.datastructures.arrays;
 
 public class Array {
     

@@ -1,4 +1,4 @@
-import com.nagasystems.datastructures.LinkedList;
+import com.nagasystems.datastructures.linkedlists.LinkedList;
 
 import java.util.Arrays;
 

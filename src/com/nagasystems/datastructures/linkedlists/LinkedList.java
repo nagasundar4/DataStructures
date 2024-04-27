@@ -1,4 +1,4 @@
-package com.nagasystems.datastructures;
+package com.nagasystems.datastructures.linkedlists;
 
 import java.util.NoSuchElementException;
 
